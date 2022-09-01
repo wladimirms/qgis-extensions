@@ -1,0 +1,5 @@
+<!DOCTYPE connections>
+<qgsVectorTileConnections version="1.0">
+    <vectortile url="https://openinframap.org/tiles/{z}/{x}/{y}.pbf" password="" http-header:referer="&lt;a href=\&quot;https://www.openstreetmap.org/copyright\&quot;>© OpenStreetMap contributors&lt;/a>, &lt;a href=\&quot;https://openinframap.org/copyright\&quot;>OpenInfraMap&lt;/a>" authcfg="" username="" zmax="17" serviceType="" referer="&lt;a href=\&quot;https://www.openstreetmap.org/copyright\&quot;>© OpenStreetMap contributors&lt;/a>, &lt;a href=\&quot;https://openinframap.org/copyright\&quot;>OpenInfraMap&lt;/a>" zmin="2" styleUrl="" name="OpenInfraMap"/>
+    <vectortile url="https://pkk.rosreestr.ru/arcgis/rest/services/Hosted/caddivsion/VectorTileServer/tile/{z}/{y}/{x}.pbf" password="" http-header:referer="" authcfg="" username="" zmax="19" serviceType="" referer="" zmin="0" styleUrl="https://pkk.rosreestr.ru/arcgis/rest/services/Hosted/caddivsion/VectorTileServer/resources/styles/root.json" name="Rosreestr Cadastre"/>
+</qgsVectorTileConnections>

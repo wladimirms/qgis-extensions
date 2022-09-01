@@ -1,0 +1,14 @@
+<!DOCTYPE connections>
+<qgsARCGISFEATURESERVERConnections version="1.0">
+    <arcgisfeatureserver url="http://83.149.241.4/arcgis/rest/services/Public" password="" authcfg="" username="" name="SGM_Музей_Вернадского"/>
+    <arcgisfeatureserver url="http://lgtgis.aari.ru/arcgis/rest/services/AARI/polar/MapServer" password="" authcfg="" username="" name="ААНИИ North Pole"/>
+    <arcgisfeatureserver url="https://server.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer" password="" authcfg="" username="" name="ESRI ArcGIS Online Imagery"/>
+    <arcgisfeatureserver url="https://pkk.rosreestr.ru/arcgis/rest/services/BaseMaps/BaseMap/MapServer" password="" authcfg="" username="" name="Росреестр_ЕЭКО_Basemap"/>
+    <arcgisfeatureserver url="https://pkk.rosreestr.ru/arcgis/rest/services/BaseMaps/Anno/MapServer" http-header:referer="" password="" authcfg="" username="" referer="" name="Росреестр_EЭКО_Anno"/>
+    <arcgisfeatureserver url="http://agssrv1.vsegei.ru/arcgis/rest/services/WEB_P3/WEB_P3_2L/MapServer" http-header:referer="" password="" authcfg="" username="" referer="" name="ВСЕГЕИ Deposits"/>
+    <arcgisfeatureserver url="http://agssrv1.vsegei.ru/arcgis/rest/services/" http-header:referer="" password="" authcfg="" username="" referer="" name="ВСЕГЕИ ArcGIS REST"/>
+    <arcgisfeatureserver url="https://karta.yanao.ru/arcgisserver/rest/services" http-header:referer="" password="" authcfg="" username="" referer="" name="ЯНАО ArcGIS REST"/>
+    <arcgisfeatureserver url="http://www.meteo-dv.ru/arcgis/rest/services" http-header:referer="" password="" authcfg="" username="" referer="" name="ГИС МЕТЕО-ДВ"/>
+    <arcgisfeatureserver url="https://projectserver.dataplus.ru/arcgis105/rest/services" password="" authcfg="" username="" name="DATAPLUS"/>
+    <arcgisfeatureserver url="http://pubweb.admhmao.ru:6080/arcgis/rest/services" password="" authcfg="" username="" name="ХМАО ArcGIS REST"/>
+</qgsARCGISFEATURESERVERConnections>
